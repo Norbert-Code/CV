@@ -349,7 +349,6 @@ body {
   .experience .experience-item:last-child {
     padding-bottom: 0;
   }
-  
   .experience .experience-item::before {
     content: "";
     position: absolute;
